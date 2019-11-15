@@ -1,7 +1,8 @@
-// import $ from 'jquery';     (jQuery if needed in this file -else erase)
+import $ from 'jquery';
 
 
-// Business Logic
-
-
-// Reminder: Use export before functions, classes, etc., from this file.
+export class Earth {
+  constructor(age){
+    this._age = age;
+  }
+}

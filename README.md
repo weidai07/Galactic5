@@ -1,19 +1,19 @@
-# Webpack Template
+# Galactic
 ##### By Wei Dai
-###### Created November 14, 2019
+###### Created November 15, 2019
 
 ## Description
 
-_This is a template for future use in individual projects._
+_This is my fifth week individual project._
 
 ## Links:
 
-Github - https://github.com/weidai07/webpack-template
+Github - https://github.com/weidai07/Galactic5
 
 
 ## Setup/Installation Requirements:
 
-* Open https://weidai07.github.io/webpack-template
+* Open https://github.com/weidai07/Galactic5
 * $ npm install  (in the command line interface) to install
 * $ npm run build (to build project)
 * $ npm run start (for live server)

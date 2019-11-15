@@ -18,7 +18,7 @@ module.exports = {
     new UglifyJsPlugin({ sourceMap: true }),
     new CleanWebpackPlugin(),
     new HtmlWebpackPlugin({
-      title: 'Project Name',
+      title: 'Galactic',
       template: './src/index.html',
       inject: 'body'
     })
