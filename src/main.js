@@ -8,12 +8,13 @@ import { Earth, Mercury, Venus, Mars, Jupiter } from './scripts';
 $(document).ready(function() {
 
   let human = new Earth ("30");
-  const mercuryHuman = (this.earthAge * 0.24)
-  const venusHuman = (this.earthAge * 0.62)
-  const marsHuman = (this.earthAge * 1.88)
-  const jupiterHuman = (this.earthAge * 11.86)
+  const mercuryHuman = (human * 0.24)
+  const venusHuman = (human * 0.62)
+  const marsHuman = (human * 1.88)
+  const jupiterHuman = (human * 11.86)
 
-    if (human.age === "30"){
+    if (human.earthAge === "30"){
       $("#display").append("I am 30!");
       $("#years").show();
-}});
+}
+});
