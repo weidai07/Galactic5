@@ -18,8 +18,6 @@ Github - https://github.com/weidai07/Galactic5
 * $ npm run build (to build project)
 * $ npm run start (for live server)
 * $ npm run test (IMPORTANT! Create file in __test__ in order to test with Jest)
-* Update project title in webpack-config.js
-* Update project name in package.json
 
 ## Technologies Used:
 
